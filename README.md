@@ -147,6 +147,8 @@ plans to run its operations entirely on renewable energy.
 ![Alt text](6.jpg)
 ![Alt text](7.jpg)
 ![Alt text](2.jpg)
+![Alt text](view.jpg)
+![Alt text](edit.jpg)
 
 
 
